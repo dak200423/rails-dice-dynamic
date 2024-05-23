@@ -1,4 +1,4 @@
-class Two_SixController < ApplicationController
+class One_TwentyController < ApplicationController
   def giraffe
     @rolls = []
 
