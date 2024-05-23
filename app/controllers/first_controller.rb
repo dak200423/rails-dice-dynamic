@@ -1,4 +1,4 @@
-class Two_SixController < ApplicationController
+class FirstController < ApplicationController
   def lion
     @rolls = []
 

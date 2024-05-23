@@ -1,4 +1,4 @@
-class Five_FourController < ApplicationController
+class FourthController < ApplicationController
   def penguin
     @rolls = []
 

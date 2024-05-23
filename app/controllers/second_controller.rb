@@ -1,4 +1,4 @@
-class Two_TenController < ApplicationController
+class SecondController < ApplicationController
   def zebra
     @rolls = []
 
